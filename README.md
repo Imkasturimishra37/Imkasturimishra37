@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Imkasturimishra37
 - 👀 I’m passionated for data analyst
-- 🌱 I’m currently pursuing MBA
+- 🌱 I have recently completed my MBA
 
 <!---
 Imkasturimishra37/Imkasturimishra37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
