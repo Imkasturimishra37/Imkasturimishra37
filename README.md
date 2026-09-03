@@ -17,8 +17,8 @@ Model Evaluation: Tuning hyperparameters and assessing performance metrics (ROC-
 Architectures: Designing Custom Artificial Neural Networks (ANNs) and Convolutional Neural Networks (CNNs).
 Frameworks: Hands-on model development using industry-standard libraries like TensorFlow, Keras, and PyTorch.
 Optimization: Implementing dropout layers, gradient descent tuning, and regularization techniques to prevent overfitting.
-# 🗄️ Structured Query Language (SQL
-)Database Management: Writing efficient queries for PostgreSQL, MySQL, and Microsoft SQL Server.
+# 🗄️ Structured Query Language (SQL) 
+Database Management: Writing efficient queries for PostgreSQL, MySQL, and Microsoft SQL Server.
 Complex Data Extraction: Advanced skills in Joins, Subqueries, and multi-table merging.
 Analytical Functions: Utilizing complex Window Functions, aggregations, and Common Table Expressions (CTEs).
 Performance Tuning: Designing indexes and optimizing database schemas for large-scale transactional workloads.
