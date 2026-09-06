@@ -5,7 +5,7 @@ I’m an MBA graduate currently building my career in **Data Science, Artificial
 - 🐍 **Python:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 - 🗄️ **SQL:** Joins, Subqueries, CTEs, Window Functions, DDL & DML
 - 📊 **Data Analytics & BI:** Excel, Power BI, DAX, Data Visualization, EDA
-- 🤖 **Machine Learning:** Regression, Classification, Decision Trees, Random Forest, XGBoost, Clustering
+- 🤖 **Machine Learning:** Regression, Classification, Decision Trees, Random Forest, XGBoost, Clustering, Simple linear regression, multiple linear regression, model training, model evaluation, model classification report
 - 🧠 **Deep Learning:** TensorFlow, PyTorch, ANN, CNN, RNN, Transformers, FNN, Backpropagation, Optimization
 - ✨ **Generative AI:** LLMs, Prompt Engineering, RAG, Embeddings, Vector Databases
 - 🔗 **AI Frameworks:** LangChain, LangGraph, AI Agents & Chatbot Development
