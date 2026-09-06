@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kasturi Mishra!
-🎓 **MBA Graduate | Data Science | AI & Generative AI**
+**Data Science | AI & Generative AI**
 I’m an MBA graduate currently building my career in **Data Science, Artificial Intelligence & Generative AI**, combining business knowledge with technical skills to create data-driven and intelligent solutions.
 ## 🧑‍💻 Skills & Technologies
 - 🐍 **Python:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
