@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Baiani
+# 👋 Hi, I'm Kasturi
 
 ## 🎓 MBA Graduate | Data Science | AI & Generative AI
 
